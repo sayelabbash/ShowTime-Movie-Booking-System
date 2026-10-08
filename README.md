@@ -1,4 +1,4 @@
-# 🎬 Chitraloy — Movie Booking System
+# 🎬 ShowTime — Movie Booking System
 
 A full-stack movie ticket booking application built with **Java 17, Spring Boot, Spring Data JPA/Hibernate, MySQL, Spring Security + JWT, Razorpay, React, Vite and Tailwind CSS**.
 
